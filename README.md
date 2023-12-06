@@ -15,4 +15,4 @@ All this data will be stored at MongoDB Atlas.
 ## To start the project in local system, write two commands in the terminal
 * npm install,
    Then after installing all the dependencies, write
-* node .\index.js or nodemon .\index.js.
+* node .\server.js or nodemon .\server.js.
